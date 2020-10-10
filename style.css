@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+}
+
+
+.portfolio {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	margin-top: 20px;
+}
+
+h1 {
+	font-size: 3em;
+	font-family: Sansita Swashed;
+	border-right: 2px inset grey;
+	border-bottom: 2px inset grey;
+	width: 400px;
+	text-align: center;
+	box-shadow: 5px 5px 10px grey;
+	text-shadow: 2px 2px lightgrey;
+}
+
+h2 {
+	font-size: 2em;
+	text-align: center;
+	font-family: Sansita Swashed;
+	font-weight: lighter;
+	text-decoration: underline;
+}
+
+img {
+	width: 450px;
+	height: 350px;
+	padding: 5px;
+}
